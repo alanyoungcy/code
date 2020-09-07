@@ -4,5 +4,4 @@ import pandas as pd
 
 n = np.arange(0,100,3)
 # print(n)
-pd.Series?
 
