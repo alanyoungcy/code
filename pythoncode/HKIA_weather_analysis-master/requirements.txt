@@ -1,0 +1,7 @@
+SQLAlchemy==1.2.16
+xgboost==0.82
+numpy==1.13.3
+matplotlib==2.1.1
+scipy==1.2.0
+tensorflow_gpu==1.13.1
+pandas==0.23.4
